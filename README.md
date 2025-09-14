@@ -1,4 +1,4 @@
-Real-Time Cryptocurrency Data Pipeline
+#  Real-Time Cryptocurrency Data Pipeline
 ![Airflow](https://img.shields.io/badge/Airflow-DAG-blue?logo=apache-airflow)  
 ![DBT](https://img.shields.io/badge/DBT-Data%20Modeling-orange?logo=dbt)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql)  
