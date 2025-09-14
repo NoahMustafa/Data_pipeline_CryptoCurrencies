@@ -14,7 +14,8 @@ It scrapes cryptocurrency market data every **15 minutes**, processes and loads 
 
 ⚙️ Architecture
 
-![workflow](https://github.com/user-attachments/assets/68defb59-192e-4a56-8670-078eb27392b4)
+![workflow](https://github.com/user-attachments/assets/5c3637a7-fcb4-4603-b47a-acee966e6451)
+
 
 
 ## ⚡ Pipeline Flow
