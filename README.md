@@ -55,7 +55,7 @@ Performance Comparison → currency-by-currency historical shifts.
 
 ##   Demo
 
-[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://youtu.be/sbFoUVz6ZZ8>)
+[![Watch the video](https://img.youtube.com/vi/<sbFoUVz6ZZ8>/0.jpg)](https://youtu.be/sbFoUVz6ZZ8>)
 
 
 📈 Outcome
