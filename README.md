@@ -1,9 +1,5 @@
 #  Real-Time Cryptocurrency Data Pipeline
-![Airflow](https://img.shields.io/badge/Airflow-DAG-blue?logo=apache-airflow)  
-![DBT](https://img.shields.io/badge/DBT-Data%20Modeling-orange?logo=dbt)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql)  
-![Python](https://img.shields.io/badge/Python-Scraping-green?logo=python)  
-![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)  
+![Airflow](https://img.shields.io/badge/Airflow-DAG-blue?logo=apache-airflow)  ![DBT](https://img.shields.io/badge/DBT-Data%20Modeling-orange?logo=dbt)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?logo=postgresql)  ![Python](https://img.shields.io/badge/Python-Scraping-green?logo=python)  ![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow?logo=powerbi)  
 
 ---
 
