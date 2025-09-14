@@ -53,6 +53,10 @@ Performance Comparison → currency-by-currency historical shifts.
 
 <img width="1278" height="719" alt="first project dashboard" src="https://github.com/user-attachments/assets/36467a2a-52d0-481a-b12f-f1742c802680" />
 
+##   Demo
+
+[![Watch the video](https://img.youtube.com/vi/<VIDEO_ID>/0.jpg)](https://youtu.be/sbFoUVz6ZZ8>)
+
 
 📈 Outcome
 
