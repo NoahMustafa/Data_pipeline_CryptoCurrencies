@@ -1,0 +1,8 @@
+apache-airflow
+sqlalchemy
+psycopg2-binary
+requests
+beautifulsoup4
+pandas
+dbt-postgres
+python-dotenv
