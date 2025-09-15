@@ -42,14 +42,18 @@ It scrapes cryptocurrency market data every **15 minutes**, processes and loads 
      - Trends over time
 
 
+##   How to run it on your local machine
+- ensure you have docker installed with the right configs, give the DAG.py to any AI and it will give you the instructions
+- make postgre database using the create_scheme.sql file
+- make sure that the files and all the foldes used mounted in docker for the right configs ask the AI
+- if you want to test only the scraping mechanism just see the Scrape.py script 
+
 
 ##   Power BI Dashboard
 
 Snapshot View → current market prices, volumes, caps.
 
 Trend Analysis → min/max price tracking across time.
-
-Performance Comparison → currency-by-currency historical shifts.
 
 <img width="1278" height="719" alt="first project dashboard" src="https://github.com/user-attachments/assets/36467a2a-52d0-481a-b12f-f1742c802680" />
 
