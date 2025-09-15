@@ -21,7 +21,7 @@ import os
 
 def ingest_and_load(**kwarg):
     engine = create_engine(
-        "postgresql+psycopg2://postgres:011212369@host.docker.internal:5432/postgres"
+        "your_database_connection"
     )
     page = 1
     prices = []
